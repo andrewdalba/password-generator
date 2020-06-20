@@ -13,10 +13,8 @@ function writePassword() {
 
 // ********************** function logic *********************
 // THEN I am presented with a series of prompts for password criteria
-// ???????  what series
 // WHEN prompted for password criteria
 // THEN I select which criteria to include in the password
-// ??????? I thought that is a given
 
 
 // collected all the data here ************************
@@ -83,9 +81,6 @@ console.log("needLowercase: ", needLowercase, "needNumeric: ", needNumeric, "nee
 
 
 // ********************** end function logic *********************
-
-
-
 
 
 // Add event listener to generate button
